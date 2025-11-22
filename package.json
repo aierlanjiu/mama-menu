@@ -1,0 +1,11 @@
+{
+  "name": "mama-menu",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lucide-react": "^0.554.0"
+  },
+  "scripts": {
+    "build": "react-scripts build"
+  }
+}
