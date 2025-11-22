@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mama-menu/static/css/main.4cfd16cf.css",
-    "main.js": "/mama-menu/static/js/main.66b55912.js",
+    "main.js": "/mama-menu/static/js/main.5f2f4e1d.js",
     "static/js/453.af79c5f6.chunk.js": "/mama-menu/static/js/453.af79c5f6.chunk.js",
     "index.html": "/mama-menu/index.html",
     "main.4cfd16cf.css.map": "/mama-menu/static/css/main.4cfd16cf.css.map",
-    "main.66b55912.js.map": "/mama-menu/static/js/main.66b55912.js.map",
+    "main.5f2f4e1d.js.map": "/mama-menu/static/js/main.5f2f4e1d.js.map",
     "453.af79c5f6.chunk.js.map": "/mama-menu/static/js/453.af79c5f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cfd16cf.css",
-    "static/js/main.66b55912.js"
+    "static/js/main.5f2f4e1d.js"
   ]
 }
